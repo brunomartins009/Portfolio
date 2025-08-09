@@ -365,6 +365,9 @@ body#curriculo-body {
     padding: 0;
     margin: 0;
     height: 100vh;
+    background: url(../source/Glow\ Black\ And\ White\ GIF\ by\ xponentialdesign.gif) no-repeat center center fixed;
+    background-size: cover;
+    background-color: black;
 }
 
 body#curriculo-body::before {
